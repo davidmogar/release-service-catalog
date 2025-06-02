@@ -2,7 +2,7 @@
 apiVersion: tekton.dev/v1
 kind: Pipeline
 metadata:
-  name: rh-advisories
+  name: release1566-35
   labels:
     app.kubernetes.io/version: "2.0.8"
   annotations:
